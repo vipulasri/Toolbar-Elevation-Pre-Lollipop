@@ -42,6 +42,6 @@ Ex. `<include layout="@layout/toolbar_shadow" />`
 
 ## Result
 
-![Screenshot with shadow](https://github.com/vipulasri/Timeline-View/blob/master/screen_with_shadow.png)
+![Screenshot with shadow](https://github.com/vipulasri/Toolbar-Elevation-Pre-Lollipop/blob/master/screen_with_shadow.png)
 
 
